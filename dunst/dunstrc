@@ -1,0 +1,20 @@
+[global]
+frame_color = "#ba89fa"
+separator_color= frame
+font = "Operator Mono Book"
+background = "#1f1e28"
+timeout = 3
+
+
+[urgency_low]
+background = "#1f1e28"
+foreground = "#c6d0f5"
+
+[urgency_normal]
+background = "#1f1e28"
+foreground = "#c6d0f5"
+
+[urgency_critical]
+background = "#1f1e28"
+foreground = "#c6d0f5"
+frame_color = "#ef9f76"
